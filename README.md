@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Forki!
 
-<!--
-**Forki303/Forki303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m interested in Linux, Open Source, and system customization  
+🐧 Daily driver: Windows / EndeavourOS / ZorinOS
+🚀 I enjoy automation and scripting  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Linux
+- Bash
+- Git
+- Python (basic)
+
+---
+
+## 📌 Projects
+- 🔹 PrismLauncher tools
+- 🔹 Minecraft-related projects
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Forki303&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Forki303&layout=compact&theme=tokyonight)
